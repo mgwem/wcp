@@ -1,0 +1,18 @@
+.metadata
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+Servers
