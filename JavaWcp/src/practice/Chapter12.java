@@ -7,6 +7,6 @@ public class Chapter12 {
 		System.out.println("年齢は" + man.getAge() + "です。");
 		
 		man.setAge(33);
-		System.out.println("誕生日を迎えたので、年齢hが" + man.getAge() + "になりました。");
+		System.out.println("誕生日を迎えたので、年齢が" + man.getAge() + "になりました。");
 	}
 }
