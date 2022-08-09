@@ -1,7 +1,8 @@
 package inner_class_sample;
 
 public class Outer {
-	public class B {
-		
+	public class Inner {
+		Outer outer = new Outer();
+		Outer.Inner inner = new Outer.Inner();
 	}
 }
