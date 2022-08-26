@@ -28,6 +28,17 @@ public class List01 {
 		System.out.println(list1.contains("なし"));
 		
 		System.out.println(list1.size());
+		
+		list1.remove("バナナ");
+		list1.remove("なし");
+		list1.remove(0);
+		
+		System.out.println(list1);
+		
+		list2.add(12);
+		list2.add(234);
+		
+		System.out.println(list2);
 	}
 	
 }
